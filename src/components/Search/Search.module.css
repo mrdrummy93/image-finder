@@ -1,0 +1,26 @@
+.searchWrapper {
+    border: 1px solid black;
+    width: 1200px;
+}
+
+.searchField {
+    margin: 10px;
+}
+
+.results {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.pagination {
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 12px;
+}

@@ -1,0 +1,19 @@
+.imageCard {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.image {
+    margin: 10px;
+}
+
+.imageButton {
+    margin: 10px
+}
+
+.inputTags {
+    margin: 10px
+}

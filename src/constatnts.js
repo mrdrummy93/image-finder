@@ -1,0 +1,1 @@
+export const BOOKMARKS_KEY = 'BOOKMARKS_KEY';
